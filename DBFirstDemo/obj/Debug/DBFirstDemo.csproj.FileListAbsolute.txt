@@ -1,0 +1,3 @@
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Frameworks em .Net\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.AssemblyReference.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Frameworks em .Net\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Frameworks em .Net\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.CoreCompileInputs.cache
