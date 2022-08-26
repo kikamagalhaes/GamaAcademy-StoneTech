@@ -13,28 +13,28 @@ namespace DBFirstDemo
             using (var db = new LojaEntities())
             {
                 //criando clientes e pedidos 
-                Cliente cliente1 = new Cliente();
+                Cliente cliente1 = new Cliente()
                 {
-                    Nome = "Tralala";
-                    Email = "tralala@lontol.com";
+                    Nome = "Tralala",
+                    Email = "tralala@lontol.com"
 
                 };
                 db.Clientes.Add(cliente1);
                 db.SaveChanges();
 
-                Cliente cliente2 = new Cliente();
+                Cliente cliente2 = new Cliente()
                 {
-                    Nome = "Ligoligo";
-                    Email = "ligoligo@lileco.com";
+                    Nome = "Ligoligo",
+                    Email = "ligoligo@lileco.com"
 
                 };
                 db.Clientes.Add(cliente2);
                 db.SaveChanges();
 
-                Cliente cliente3 = new Cliente();
+                Cliente cliente3 = new Cliente()
                 {
-                    Nome = "Telos";
-                    Email = "telos@nunbol.com";
+                    Nome = "Telos",
+                    Email = "telos@nunbol.com"
 
                 };
                 db.Clientes.Add(cliente3);
@@ -66,10 +66,10 @@ namespace DBFirstDemo
 
                 foreach (var item in query)
                 {
-                    Console.WriteLine($"Cliente: {cliente.Nome}");
+                    Console.WriteLine($"Cliente: {item.Nome}");
                     Console.WriteLine("Pedidos:");
                     Console.WriteLine("===========");
-                    foreach (var p in cliente.Pedidoes)
+                    foreach (var p in item.Pedidoes)
                     {
                         Console.WriteLine($"Item: {p.Item}, Preço: {p.Preco}");
                     }
