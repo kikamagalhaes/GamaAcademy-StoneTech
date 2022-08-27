@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6pXDMmV3lMGdaOEAnMXlVpR7woZHrw0G98wsQnE6DYJK17Twvzmjuznws/JRFJQ5+8rK71swILD5FKsNvxfUgA==",
+  "dgSpecHash": "jCWInZ4e4oBSA6f7s36SolrtipAo5gCHWjGPMT2V+w+2sUfLYkv2TzeuxaK1ayQkWLyOBrb+y78Bp/POGJqnmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\magal\\OneDrive\\Documentos\\Estudo\\stga\\Aulas\\Frameworks em .Net\\CodeFirstDemo\\CodeFirstDemo.csproj",
+  "projectFilePath": "C:\\Users\\magal\\OneDrive\\Documentos\\Estudo\\stga\\para subir no meu GitHub\\CodeFirstDemo\\CodeFirstDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\magal\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\magal\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
