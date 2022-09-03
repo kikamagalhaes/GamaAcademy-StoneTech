@@ -1,0 +1,54 @@
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\bin\Debug\net6.0\appsettings.json
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\bin\Debug\net6.0\Eventos.exe
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\bin\Debug\net6.0\Eventos.deps.json
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\bin\Debug\net6.0\Eventos.runtimeconfig.json
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\bin\Debug\net6.0\Eventos.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\bin\Debug\net6.0\Eventos.pdb
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\Eventos.csproj.AssemblyReference.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\Eventos.AssemblyInfoInputs.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\Eventos.AssemblyInfo.cs
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\Eventos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\Eventos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\scopedcss\bundle\Eventos.styles.css
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\Eventos.csproj.CopyComplete
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\Eventos.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\refint\Eventos.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\Eventos.pdb
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\Eventos.genruntimeconfig.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\Microservices\Eventos\obj\Debug\net6.0\ref\Eventos.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\bin\Debug\net6.0\appsettings.json
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\bin\Debug\net6.0\Eventos.exe
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\bin\Debug\net6.0\Eventos.deps.json
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\bin\Debug\net6.0\Eventos.runtimeconfig.json
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\bin\Debug\net6.0\Eventos.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\bin\Debug\net6.0\Eventos.pdb
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\Eventos.csproj.AssemblyReference.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\Eventos.AssemblyInfoInputs.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\Eventos.AssemblyInfo.cs
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\Eventos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\Eventos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\scopedcss\bundle\Eventos.styles.css
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\Eventos.csproj.CopyComplete
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\Eventos.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\refint\Eventos.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\Eventos.pdb
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\Eventos.genruntimeconfig.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\stga\para subir no meu GitHub\Microservices\Eventos\obj\Debug\net6.0\ref\Eventos.dll
